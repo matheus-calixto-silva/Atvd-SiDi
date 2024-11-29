@@ -1,0 +1,64 @@
+{
+  "usuarios": [
+    {
+      "nome": "João Silva",
+      "cpf": "123.456.789-00",
+      "telefone": "(11) 98765-4321",
+      "email": "joao.silva@example.com",
+      "senha": "senha123",
+      "registrosPontos": [],
+      "id": "77a0"
+    },
+    {
+      "nome": "Maria Oliveira",
+      "cpf": "987.654.321-00",
+      "telefone": "(21) 91234-5678",
+      "email": "maria.oliveira@example.com",
+      "senha": "senha456",
+      "registrosPontos": [],
+      "id": "b8cd"
+    },
+    {
+      "nome": "Carlos Mendes",
+      "cpf": "456.123.789-00",
+      "telefone": "(31) 99876-5432",
+      "email": "carlos.mendes@example.com",
+      "senha": "senha789",
+      "registrosPontos": [],
+      "id": "6874"
+    },
+    {
+      "id": "dc36",
+      "username": "João Silva",
+      "password": "senha123"
+    },
+    {
+      "id": "738c",
+      "username": "joao.silva@example.com",
+      "password": "senha123"
+    },
+    {
+      "id": "91c3",
+      "username": "joao.silva@example.com",
+      "password": "senha123"
+    },
+    {
+      "id": "2024-11-15T06:42:55.164Z",
+      "nome": "Usuario",
+      "cpf": "11111111111",
+      "telefone": "81998143248",
+      "email": "usuario@mail.com",
+      "senha": "senha123",
+      "registrosPontos": []
+    },
+    {
+      "id": "2024-11-15T06:58:38.327Z",
+      "nome": "Teste",
+      "cpf": "22222222222",
+      "telefone": "81988888888",
+      "email": "teste@teste.com",
+      "senha": "senha123",
+      "registrosPontos": []
+    }
+  ]
+}
