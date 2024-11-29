@@ -59,6 +59,15 @@
       "email": "teste@teste.com",
       "senha": "senha123",
       "registrosPontos": []
+    },
+    {
+      "id": "2024-11-29T15:23:03.420Z",
+      "nome": "rafael",
+      "cpf": "123.123.123-12",
+      "telefone": "(81) 9.999999",
+      "email": "auzendegamerbr3.0@gmail.com",
+      "senha": "123123123",
+      "registrosPontos": []
     }
   ]
 }
